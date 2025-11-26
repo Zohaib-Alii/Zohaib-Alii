@@ -22,7 +22,7 @@
 - Comfortable across the stack: **React/Next.js**, **Node/Express**, **MongoDB/PostgreSQL**, **Prisma**, modern UI kits, and testing.
 - I care about **clean, maintainable code**, performance, and collaborative delivery.
 
----
+----
 
 ### 🛠️ Tech I use
 **Frontend:** React, Next.js, Redux Toolkit, JavaScript (ES6+), HTML5, CSS3/SCSS, Tailwind, Bootstrap, Material UI  
