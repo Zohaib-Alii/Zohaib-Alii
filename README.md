@@ -170,7 +170,7 @@ Healthcare platform powering **100K+ patients / 10K+ physicians**
 
 ### **Trophies**
 <p>
-  <img src="https://raw.githubusercontent.com/ryo-ma/github-profile-trophy/master/static-trophies/profile-trophy.png" height="180"/>
+  <img src="https://img.icons8.com/color/96/000000/trophy.png" height="80"/>
 </p>
 
 
