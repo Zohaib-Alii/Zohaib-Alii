@@ -169,9 +169,8 @@ Healthcare platform powering **100K+ patients / 10K+ physicians**
 </p>
 
 ### **Trophies**
-<p>
-  <img src="https://github-profile-trophy-git-main-rfxzuq.vercel.app/?username=Zohaib-Alii&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
-</p>
+<img src="https://github-profile-trophy-git-main-rfxzuq.vercel.app/?username=Zohaib-Alii" />
+
 
 
 # 🤝 Let’s Connect
