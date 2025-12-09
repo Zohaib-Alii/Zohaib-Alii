@@ -169,7 +169,10 @@ Healthcare platform powering **100K+ patients / 10K+ physicians**
 </p>
 
 ### **Trophies**
-<img src="https://github-profile-trophy-git-main-rfxzuq.vercel.app/?username=Zohaib-Alii" />
+<p>
+  <img src="https://raw.githubusercontent.com/ryo-ma/github-profile-trophy/master/static-trophies/profile-trophy.png" height="180"/>
+</p>
+
 
 
 
