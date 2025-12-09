@@ -72,8 +72,16 @@ I love solving complex problems and turning them into **clean, maintainable, pro
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40"/>
   <img src="https://avatars.githubusercontent.com/u/10251060?s=200" height="40"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cypress.svg" height="40" />
-  <img src="https://avatars.githubusercontent.com/u/2918581?s=200&v=4" height="40"/> <!-- Jest -->
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" height="40"/>
+
+  <!-- Jest (light-friendly) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40"/>
+
+  <!-- VS Code (optional but looks great) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
+
+  <!-- Linux (optional, great for developer profiles) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
 </p>
 
 
