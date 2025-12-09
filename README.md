@@ -71,8 +71,7 @@ I love solving complex problems and turning them into **clean, maintainable, pro
 ### **Tools**
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/postman/postman-icon.svg" height="40"/>
-  <img src="https://avatars.githubusercontent.com/u/10251060?s=200" height="36"/>
+  <img src="https://avatars.githubusercontent.com/u/10251060?s=200" height="40"/>
   <img src="https://raw.githubusercontent.com/cypress-io/cypress-icons/master/src/favicon.ico" height="40"/>
   <img src="https://avatars.githubusercontent.com/u/2918581?s=200&v=4" height="40"/> <!-- Jest -->
 </p>
